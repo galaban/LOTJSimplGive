@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/galaban/LOTJSimpleGive/master/galabans_simple_
 2. Place the raw file into your "plugins" directory.  This is found in your Mushclient folder under /worlds/plugins.
 3. Install the plugain in MushClient.  From the "File" menu, choose "plugins", then "Add".  Select the file and choose "OK".
 
+Note: This plugin does not require the MSDPHelper plugin, but it does improve the plugin a tiny bit.  (fixing problems if you start to give something to someone and then leave the room.)
