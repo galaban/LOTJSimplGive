@@ -108,8 +108,9 @@
 
 <aliases>
   <alias
-   match="give * *"
+   match="^give (.+) (\S+)$"
    enabled="y"
+   regexp="y"
    expand_variables="y"
    group="BOT"
    send_to="12"
